@@ -7,8 +7,6 @@ const http=require('http')
 //         console.log(err);
 //     else
 //     console.log("Appended");
-    
-        
 // })
 
 // fs.readFile("test.txt",(err,data)=>{
